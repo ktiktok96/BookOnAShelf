@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1066544909008",
+    "firebase_url": "https://bookscanner-ca56f-default-rtdb.firebaseio.com",
+    "project_id": "bookscanner-ca56f",
+    "storage_bucket": "bookscanner-ca56f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066544909008:android:7eaa2725f4139262836cd5",
+        "android_client_info": {
+          "package_name": "automatic.learning.bookscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066544909008-fgfru4v7f9nmpf0nfd7641s5slhi6ku8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "automatic.learning.bookscanner",
+            "certificate_hash": "f75db4af055633bc6767d3db447b86746262fb9a"
+          }
+        },
+        {
+          "client_id": "1066544909008-l626gdd91rtlbei5tmsvc2h4movvui2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjxObGZsAXl1dFRMw6YnDpbOCjMRRCkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066544909008-l626gdd91rtlbei5tmsvc2h4movvui2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
